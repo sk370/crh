@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background: url(../IMAGES/body_bg.jpg) repeat-x;
+}
+.wrap{
+	background-color: white;
+}
+.login{
+	background: url(../IMAGES/login_bg.jpg) no-repeat;
+}
+footer{
+	background: url(../IMAGES/bottom_bg.jpg) repeat-x;
+}
+.middleWraper>ul{
+	background: url(../IMAGES/link_bggl.jpg) no-repeat;
+	overflow: hidden;
+}
+.navigator{
+	background: url(../IMAGES/top_guide_bg.jpg) repeat-x;
+}
